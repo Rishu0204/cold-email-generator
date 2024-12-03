@@ -15,7 +15,7 @@ pandas
 uuid
 
 # ChromaDB integration
-chromadb
+chromadb==0.5.20
 
 # Additional useful libraries
 numpy                 # Numerical computations
