@@ -1,5 +1,4 @@
-# Core dependencies
-python==3.12
+
 
 # LangChain-related libraries
 langchain
